@@ -1,0 +1,241 @@
+id,date,text,topic,sentiment,split
+FB-0001,2026-01-01,The price of the subscription was excellent and exceeded expectations.,Pricing,Positive,train
+FB-0002,2026-02-02,The price of the subscription was great and made me very happy.,Pricing,Positive,train
+FB-0003,2026-03-03,The price of the subscription was wonderful and I am satisfied.,Pricing,Positive,train
+FB-0004,2026-04-04,The price of the subscription was fantastic; I would recommend it.,Pricing,Positive,train
+FB-0005,2026-05-05,The cost of our monthly plan was excellent and exceeded expectations.,Pricing,Positive,train
+FB-0006,2026-06-06,The cost of our monthly plan was great and made me very happy.,Pricing,Positive,train
+FB-0007,2026-07-07,The cost of our monthly plan was wonderful and I am satisfied.,Pricing,Positive,train
+FB-0008,2026-08-08,The cost of our monthly plan was fantastic; I would recommend it.,Pricing,Positive,train
+FB-0009,2026-09-09,The fee on my invoice was excellent and exceeded expectations.,Pricing,Positive,train
+FB-0010,2026-01-10,The fee on my invoice was great and made me very happy.,Pricing,Positive,train
+FB-0011,2026-02-11,The fee on my invoice was wonderful and I am satisfied.,Pricing,Positive,train
+FB-0012,2026-03-12,The fee on my invoice was fantastic; I would recommend it.,Pricing,Positive,train
+FB-0013,2026-04-13,The charge for the package was excellent and exceeded expectations.,Pricing,Positive,train
+FB-0014,2026-05-14,The charge for the package was great and made me very happy.,Pricing,Positive,train
+FB-0015,2026-06-15,The charge for the package was wonderful and I am satisfied.,Pricing,Positive,train
+FB-0016,2026-07-16,The charge for the package was fantastic; I would recommend it.,Pricing,Positive,train
+FB-0017,2026-08-17,The price of the subscription was as described in the information provided.,Pricing,Neutral,train
+FB-0018,2026-09-18,The price of the subscription was what I expected with nothing unusual.,Pricing,Neutral,train
+FB-0019,2026-01-19,The price of the subscription was average and neither good nor bad.,Pricing,Neutral,train
+FB-0020,2026-02-20,The price of the subscription was standard for this type of purchase.,Pricing,Neutral,train
+FB-0021,2026-03-21,The cost of our monthly plan was as described in the information provided.,Pricing,Neutral,train
+FB-0022,2026-04-22,The cost of our monthly plan was what I expected with nothing unusual.,Pricing,Neutral,train
+FB-0023,2026-05-23,The cost of our monthly plan was average and neither good nor bad.,Pricing,Neutral,train
+FB-0024,2026-06-24,The cost of our monthly plan was standard for this type of purchase.,Pricing,Neutral,train
+FB-0025,2026-07-25,The fee on my invoice was as described in the information provided.,Pricing,Neutral,train
+FB-0026,2026-08-26,The fee on my invoice was what I expected with nothing unusual.,Pricing,Neutral,train
+FB-0027,2026-09-27,The fee on my invoice was average and neither good nor bad.,Pricing,Neutral,train
+FB-0028,2026-01-01,The fee on my invoice was standard for this type of purchase.,Pricing,Neutral,train
+FB-0029,2026-02-02,The charge for the package was as described in the information provided.,Pricing,Neutral,train
+FB-0030,2026-03-03,The charge for the package was what I expected with nothing unusual.,Pricing,Neutral,train
+FB-0031,2026-04-04,The charge for the package was average and neither good nor bad.,Pricing,Neutral,train
+FB-0032,2026-05-05,The charge for the package was standard for this type of purchase.,Pricing,Neutral,train
+FB-0033,2026-06-06,The price of the subscription was terrible and left me disappointed.,Pricing,Negative,train
+FB-0034,2026-07-07,The price of the subscription was bad and caused frustrating problems.,Pricing,Negative,train
+FB-0035,2026-08-08,The price of the subscription was awful and I am unhappy.,Pricing,Negative,train
+FB-0036,2026-09-09,The price of the subscription was unacceptable; I would not recommend it.,Pricing,Negative,train
+FB-0037,2026-01-10,The cost of our monthly plan was terrible and left me disappointed.,Pricing,Negative,train
+FB-0038,2026-02-11,The cost of our monthly plan was bad and caused frustrating problems.,Pricing,Negative,train
+FB-0039,2026-03-12,The cost of our monthly plan was awful and I am unhappy.,Pricing,Negative,train
+FB-0040,2026-04-13,The cost of our monthly plan was unacceptable; I would not recommend it.,Pricing,Negative,train
+FB-0041,2026-05-14,The fee on my invoice was terrible and left me disappointed.,Pricing,Negative,train
+FB-0042,2026-06-15,The fee on my invoice was bad and caused frustrating problems.,Pricing,Negative,train
+FB-0043,2026-07-16,The fee on my invoice was awful and I am unhappy.,Pricing,Negative,train
+FB-0044,2026-08-17,The fee on my invoice was unacceptable; I would not recommend it.,Pricing,Negative,train
+FB-0045,2026-09-18,The charge for the package was terrible and left me disappointed.,Pricing,Negative,train
+FB-0046,2026-01-19,The charge for the package was bad and caused frustrating problems.,Pricing,Negative,train
+FB-0047,2026-02-20,The charge for the package was awful and I am unhappy.,Pricing,Negative,train
+FB-0048,2026-03-21,The charge for the package was unacceptable; I would not recommend it.,Pricing,Negative,train
+FB-0049,2026-04-22,The customer support agent was excellent and exceeded expectations.,Service,Positive,train
+FB-0050,2026-05-23,The customer support agent was great and made me very happy.,Service,Positive,train
+FB-0051,2026-06-24,The customer support agent was wonderful and I am satisfied.,Service,Positive,train
+FB-0052,2026-07-25,The customer support agent was fantastic; I would recommend it.,Service,Positive,train
+FB-0053,2026-08-26,The help desk representative was excellent and exceeded expectations.,Service,Positive,train
+FB-0054,2026-09-27,The help desk representative was great and made me very happy.,Service,Positive,train
+FB-0055,2026-01-01,The help desk representative was wonderful and I am satisfied.,Service,Positive,train
+FB-0056,2026-02-02,The help desk representative was fantastic; I would recommend it.,Service,Positive,train
+FB-0057,2026-03-03,The service team response was excellent and exceeded expectations.,Service,Positive,train
+FB-0058,2026-04-04,The service team response was great and made me very happy.,Service,Positive,train
+FB-0059,2026-05-05,The service team response was wonderful and I am satisfied.,Service,Positive,train
+FB-0060,2026-06-06,The service team response was fantastic; I would recommend it.,Service,Positive,train
+FB-0061,2026-07-07,The staff assistance was excellent and exceeded expectations.,Service,Positive,train
+FB-0062,2026-08-08,The staff assistance was great and made me very happy.,Service,Positive,train
+FB-0063,2026-09-09,The staff assistance was wonderful and I am satisfied.,Service,Positive,train
+FB-0064,2026-01-10,The staff assistance was fantastic; I would recommend it.,Service,Positive,train
+FB-0065,2026-02-11,The customer support agent was as described in the information provided.,Service,Neutral,train
+FB-0066,2026-03-12,The customer support agent was what I expected with nothing unusual.,Service,Neutral,train
+FB-0067,2026-04-13,The customer support agent was average and neither good nor bad.,Service,Neutral,train
+FB-0068,2026-05-14,The customer support agent was standard for this type of purchase.,Service,Neutral,train
+FB-0069,2026-06-15,The help desk representative was as described in the information provided.,Service,Neutral,train
+FB-0070,2026-07-16,The help desk representative was what I expected with nothing unusual.,Service,Neutral,train
+FB-0071,2026-08-17,The help desk representative was average and neither good nor bad.,Service,Neutral,train
+FB-0072,2026-09-18,The help desk representative was standard for this type of purchase.,Service,Neutral,train
+FB-0073,2026-01-19,The service team response was as described in the information provided.,Service,Neutral,train
+FB-0074,2026-02-20,The service team response was what I expected with nothing unusual.,Service,Neutral,train
+FB-0075,2026-03-21,The service team response was average and neither good nor bad.,Service,Neutral,train
+FB-0076,2026-04-22,The service team response was standard for this type of purchase.,Service,Neutral,train
+FB-0077,2026-05-23,The staff assistance was as described in the information provided.,Service,Neutral,train
+FB-0078,2026-06-24,The staff assistance was what I expected with nothing unusual.,Service,Neutral,train
+FB-0079,2026-07-25,The staff assistance was average and neither good nor bad.,Service,Neutral,train
+FB-0080,2026-08-26,The staff assistance was standard for this type of purchase.,Service,Neutral,train
+FB-0081,2026-09-27,The customer support agent was terrible and left me disappointed.,Service,Negative,train
+FB-0082,2026-01-01,The customer support agent was bad and caused frustrating problems.,Service,Negative,train
+FB-0083,2026-02-02,The customer support agent was awful and I am unhappy.,Service,Negative,train
+FB-0084,2026-03-03,The customer support agent was unacceptable; I would not recommend it.,Service,Negative,train
+FB-0085,2026-04-04,The help desk representative was terrible and left me disappointed.,Service,Negative,train
+FB-0086,2026-05-05,The help desk representative was bad and caused frustrating problems.,Service,Negative,train
+FB-0087,2026-06-06,The help desk representative was awful and I am unhappy.,Service,Negative,train
+FB-0088,2026-07-07,The help desk representative was unacceptable; I would not recommend it.,Service,Negative,train
+FB-0089,2026-08-08,The service team response was terrible and left me disappointed.,Service,Negative,train
+FB-0090,2026-09-09,The service team response was bad and caused frustrating problems.,Service,Negative,train
+FB-0091,2026-01-10,The service team response was awful and I am unhappy.,Service,Negative,train
+FB-0092,2026-02-11,The service team response was unacceptable; I would not recommend it.,Service,Negative,train
+FB-0093,2026-03-12,The staff assistance was terrible and left me disappointed.,Service,Negative,train
+FB-0094,2026-04-13,The staff assistance was bad and caused frustrating problems.,Service,Negative,train
+FB-0095,2026-05-14,The staff assistance was awful and I am unhappy.,Service,Negative,train
+FB-0096,2026-06-15,The staff assistance was unacceptable; I would not recommend it.,Service,Negative,train
+FB-0097,2026-07-16,The product build quality was excellent and exceeded expectations.,Quality,Positive,train
+FB-0098,2026-08-17,The product build quality was great and made me very happy.,Quality,Positive,train
+FB-0099,2026-09-18,The product build quality was wonderful and I am satisfied.,Quality,Positive,train
+FB-0100,2026-01-19,The product build quality was fantastic; I would recommend it.,Quality,Positive,train
+FB-0101,2026-02-20,The material durability was excellent and exceeded expectations.,Quality,Positive,train
+FB-0102,2026-03-21,The material durability was great and made me very happy.,Quality,Positive,train
+FB-0103,2026-04-22,The material durability was wonderful and I am satisfied.,Quality,Positive,train
+FB-0104,2026-05-23,The material durability was fantastic; I would recommend it.,Quality,Positive,train
+FB-0105,2026-06-24,The item craftsmanship was excellent and exceeded expectations.,Quality,Positive,train
+FB-0106,2026-07-25,The item craftsmanship was great and made me very happy.,Quality,Positive,train
+FB-0107,2026-08-26,The item craftsmanship was wonderful and I am satisfied.,Quality,Positive,train
+FB-0108,2026-09-27,The item craftsmanship was fantastic; I would recommend it.,Quality,Positive,train
+FB-0109,2026-01-01,The equipment reliability was excellent and exceeded expectations.,Quality,Positive,train
+FB-0110,2026-02-02,The equipment reliability was great and made me very happy.,Quality,Positive,train
+FB-0111,2026-03-03,The equipment reliability was wonderful and I am satisfied.,Quality,Positive,train
+FB-0112,2026-04-04,The equipment reliability was fantastic; I would recommend it.,Quality,Positive,train
+FB-0113,2026-05-05,The product build quality was as described in the information provided.,Quality,Neutral,train
+FB-0114,2026-06-06,The product build quality was what I expected with nothing unusual.,Quality,Neutral,train
+FB-0115,2026-07-07,The product build quality was average and neither good nor bad.,Quality,Neutral,train
+FB-0116,2026-08-08,The product build quality was standard for this type of purchase.,Quality,Neutral,train
+FB-0117,2026-09-09,The material durability was as described in the information provided.,Quality,Neutral,train
+FB-0118,2026-01-10,The material durability was what I expected with nothing unusual.,Quality,Neutral,train
+FB-0119,2026-02-11,The material durability was average and neither good nor bad.,Quality,Neutral,train
+FB-0120,2026-03-12,The material durability was standard for this type of purchase.,Quality,Neutral,train
+FB-0121,2026-04-13,The item craftsmanship was as described in the information provided.,Quality,Neutral,train
+FB-0122,2026-05-14,The item craftsmanship was what I expected with nothing unusual.,Quality,Neutral,train
+FB-0123,2026-06-15,The item craftsmanship was average and neither good nor bad.,Quality,Neutral,train
+FB-0124,2026-07-16,The item craftsmanship was standard for this type of purchase.,Quality,Neutral,train
+FB-0125,2026-08-17,The equipment reliability was as described in the information provided.,Quality,Neutral,train
+FB-0126,2026-09-18,The equipment reliability was what I expected with nothing unusual.,Quality,Neutral,train
+FB-0127,2026-01-19,The equipment reliability was average and neither good nor bad.,Quality,Neutral,train
+FB-0128,2026-02-20,The equipment reliability was standard for this type of purchase.,Quality,Neutral,train
+FB-0129,2026-03-21,The product build quality was terrible and left me disappointed.,Quality,Negative,train
+FB-0130,2026-04-22,The product build quality was bad and caused frustrating problems.,Quality,Negative,train
+FB-0131,2026-05-23,The product build quality was awful and I am unhappy.,Quality,Negative,train
+FB-0132,2026-06-24,The product build quality was unacceptable; I would not recommend it.,Quality,Negative,train
+FB-0133,2026-07-25,The material durability was terrible and left me disappointed.,Quality,Negative,train
+FB-0134,2026-08-26,The material durability was bad and caused frustrating problems.,Quality,Negative,train
+FB-0135,2026-09-27,The material durability was awful and I am unhappy.,Quality,Negative,train
+FB-0136,2026-01-01,The material durability was unacceptable; I would not recommend it.,Quality,Negative,train
+FB-0137,2026-02-02,The item craftsmanship was terrible and left me disappointed.,Quality,Negative,train
+FB-0138,2026-03-03,The item craftsmanship was bad and caused frustrating problems.,Quality,Negative,train
+FB-0139,2026-04-04,The item craftsmanship was awful and I am unhappy.,Quality,Negative,train
+FB-0140,2026-05-05,The item craftsmanship was unacceptable; I would not recommend it.,Quality,Negative,train
+FB-0141,2026-06-06,The equipment reliability was terrible and left me disappointed.,Quality,Negative,train
+FB-0142,2026-07-07,The equipment reliability was bad and caused frustrating problems.,Quality,Negative,train
+FB-0143,2026-08-08,The equipment reliability was awful and I am unhappy.,Quality,Negative,train
+FB-0144,2026-09-09,The equipment reliability was unacceptable; I would not recommend it.,Quality,Negative,train
+FB-0145,2026-01-10,The parcel delivery time was excellent and exceeded expectations.,Delivery,Positive,train
+FB-0146,2026-02-11,The parcel delivery time was great and made me very happy.,Delivery,Positive,train
+FB-0147,2026-03-12,The parcel delivery time was wonderful and I am satisfied.,Delivery,Positive,train
+FB-0148,2026-04-13,The parcel delivery time was fantastic; I would recommend it.,Delivery,Positive,train
+FB-0149,2026-05-14,The shipping schedule was excellent and exceeded expectations.,Delivery,Positive,train
+FB-0150,2026-06-15,The shipping schedule was great and made me very happy.,Delivery,Positive,train
+FB-0151,2026-07-16,The shipping schedule was wonderful and I am satisfied.,Delivery,Positive,train
+FB-0152,2026-08-17,The shipping schedule was fantastic; I would recommend it.,Delivery,Positive,train
+FB-0153,2026-09-18,The package arrival was excellent and exceeded expectations.,Delivery,Positive,train
+FB-0154,2026-01-19,The package arrival was great and made me very happy.,Delivery,Positive,train
+FB-0155,2026-02-20,The package arrival was wonderful and I am satisfied.,Delivery,Positive,train
+FB-0156,2026-03-21,The package arrival was fantastic; I would recommend it.,Delivery,Positive,train
+FB-0157,2026-04-22,The courier shipment was excellent and exceeded expectations.,Delivery,Positive,train
+FB-0158,2026-05-23,The courier shipment was great and made me very happy.,Delivery,Positive,train
+FB-0159,2026-06-24,The courier shipment was wonderful and I am satisfied.,Delivery,Positive,train
+FB-0160,2026-07-25,The courier shipment was fantastic; I would recommend it.,Delivery,Positive,train
+FB-0161,2026-08-26,The parcel delivery time was as described in the information provided.,Delivery,Neutral,train
+FB-0162,2026-09-27,The parcel delivery time was what I expected with nothing unusual.,Delivery,Neutral,train
+FB-0163,2026-01-01,The parcel delivery time was average and neither good nor bad.,Delivery,Neutral,train
+FB-0164,2026-02-02,The parcel delivery time was standard for this type of purchase.,Delivery,Neutral,train
+FB-0165,2026-03-03,The shipping schedule was as described in the information provided.,Delivery,Neutral,train
+FB-0166,2026-04-04,The shipping schedule was what I expected with nothing unusual.,Delivery,Neutral,train
+FB-0167,2026-05-05,The shipping schedule was average and neither good nor bad.,Delivery,Neutral,train
+FB-0168,2026-06-06,The shipping schedule was standard for this type of purchase.,Delivery,Neutral,train
+FB-0169,2026-07-07,The package arrival was as described in the information provided.,Delivery,Neutral,train
+FB-0170,2026-08-08,The package arrival was what I expected with nothing unusual.,Delivery,Neutral,train
+FB-0171,2026-09-09,The package arrival was average and neither good nor bad.,Delivery,Neutral,train
+FB-0172,2026-01-10,The package arrival was standard for this type of purchase.,Delivery,Neutral,train
+FB-0173,2026-02-11,The courier shipment was as described in the information provided.,Delivery,Neutral,train
+FB-0174,2026-03-12,The courier shipment was what I expected with nothing unusual.,Delivery,Neutral,train
+FB-0175,2026-04-13,The courier shipment was average and neither good nor bad.,Delivery,Neutral,train
+FB-0176,2026-05-14,The courier shipment was standard for this type of purchase.,Delivery,Neutral,train
+FB-0177,2026-06-15,The parcel delivery time was terrible and left me disappointed.,Delivery,Negative,train
+FB-0178,2026-07-16,The parcel delivery time was bad and caused frustrating problems.,Delivery,Negative,train
+FB-0179,2026-08-17,The parcel delivery time was awful and I am unhappy.,Delivery,Negative,train
+FB-0180,2026-09-18,The parcel delivery time was unacceptable; I would not recommend it.,Delivery,Negative,train
+FB-0181,2026-01-19,The shipping schedule was terrible and left me disappointed.,Delivery,Negative,train
+FB-0182,2026-02-20,The shipping schedule was bad and caused frustrating problems.,Delivery,Negative,train
+FB-0183,2026-03-21,The shipping schedule was awful and I am unhappy.,Delivery,Negative,train
+FB-0184,2026-04-22,The shipping schedule was unacceptable; I would not recommend it.,Delivery,Negative,train
+FB-0185,2026-05-23,The package arrival was terrible and left me disappointed.,Delivery,Negative,train
+FB-0186,2026-06-24,The package arrival was bad and caused frustrating problems.,Delivery,Negative,train
+FB-0187,2026-07-25,The package arrival was awful and I am unhappy.,Delivery,Negative,train
+FB-0188,2026-08-26,The package arrival was unacceptable; I would not recommend it.,Delivery,Negative,train
+FB-0189,2026-09-27,The courier shipment was terrible and left me disappointed.,Delivery,Negative,train
+FB-0190,2026-01-01,The courier shipment was bad and caused frustrating problems.,Delivery,Negative,train
+FB-0191,2026-02-02,The courier shipment was awful and I am unhappy.,Delivery,Negative,train
+FB-0192,2026-03-03,The courier shipment was unacceptable; I would not recommend it.,Delivery,Negative,train
+FB-0193,2026-04-04,Our renewal pricing was good and I appreciate it.,Pricing,Positive,test
+FB-0194,2026-05-05,Our renewal pricing was impressive and helpful.,Pricing,Positive,test
+FB-0195,2026-06-06,The extra billing fee was good and I appreciate it.,Pricing,Positive,test
+FB-0196,2026-07-07,The extra billing fee was impressive and helpful.,Pricing,Positive,test
+FB-0197,2026-08-08,Our renewal pricing was ordinary with no strong opinion.,Pricing,Neutral,test
+FB-0198,2026-09-09,Our renewal pricing was typical and met the basic description.,Pricing,Neutral,test
+FB-0199,2026-01-10,The extra billing fee was ordinary with no strong opinion.,Pricing,Neutral,test
+FB-0200,2026-02-11,The extra billing fee was typical and met the basic description.,Pricing,Neutral,test
+FB-0201,2026-03-12,Our renewal pricing was disappointing and needs improvement.,Pricing,Negative,test
+FB-0202,2026-04-13,Our renewal pricing was poor and I regret the purchase.,Pricing,Negative,test
+FB-0203,2026-05-14,The extra billing fee was disappointing and needs improvement.,Pricing,Negative,test
+FB-0204,2026-06-15,The extra billing fee was poor and I regret the purchase.,Pricing,Negative,test
+FB-0205,2026-07-16,My experience with customer care was good and I appreciate it.,Service,Positive,test
+FB-0206,2026-08-17,My experience with customer care was impressive and helpful.,Service,Positive,test
+FB-0207,2026-09-18,The response from the help team was good and I appreciate it.,Service,Positive,test
+FB-0208,2026-01-19,The response from the help team was impressive and helpful.,Service,Positive,test
+FB-0209,2026-02-20,My experience with customer care was ordinary with no strong opinion.,Service,Neutral,test
+FB-0210,2026-03-21,My experience with customer care was typical and met the basic description.,Service,Neutral,test
+FB-0211,2026-04-22,The response from the help team was ordinary with no strong opinion.,Service,Neutral,test
+FB-0212,2026-05-23,The response from the help team was typical and met the basic description.,Service,Neutral,test
+FB-0213,2026-06-24,My experience with customer care was disappointing and needs improvement.,Service,Negative,test
+FB-0214,2026-07-25,My experience with customer care was poor and I regret the purchase.,Service,Negative,test
+FB-0215,2026-08-26,The response from the help team was disappointing and needs improvement.,Service,Negative,test
+FB-0216,2026-09-27,The response from the help team was poor and I regret the purchase.,Service,Negative,test
+FB-0217,2026-01-01,The performance of this product was good and I appreciate it.,Quality,Positive,test
+FB-0218,2026-02-02,The performance of this product was impressive and helpful.,Quality,Positive,test
+FB-0219,2026-03-03,The reliability of the replacement item was good and I appreciate it.,Quality,Positive,test
+FB-0220,2026-04-04,The reliability of the replacement item was impressive and helpful.,Quality,Positive,test
+FB-0221,2026-05-05,The performance of this product was ordinary with no strong opinion.,Quality,Neutral,test
+FB-0222,2026-06-06,The performance of this product was typical and met the basic description.,Quality,Neutral,test
+FB-0223,2026-07-07,The reliability of the replacement item was ordinary with no strong opinion.,Quality,Neutral,test
+FB-0224,2026-08-08,The reliability of the replacement item was typical and met the basic description.,Quality,Neutral,test
+FB-0225,2026-09-09,The performance of this product was disappointing and needs improvement.,Quality,Negative,test
+FB-0226,2026-01-10,The performance of this product was poor and I regret the purchase.,Quality,Negative,test
+FB-0227,2026-02-11,The reliability of the replacement item was disappointing and needs improvement.,Quality,Negative,test
+FB-0228,2026-03-12,The reliability of the replacement item was poor and I regret the purchase.,Quality,Negative,test
+FB-0229,2026-04-13,The time taken to ship my order was good and I appreciate it.,Delivery,Positive,test
+FB-0230,2026-05-14,The time taken to ship my order was impressive and helpful.,Delivery,Positive,test
+FB-0231,2026-06-15,The delivery of our replacement parcel was good and I appreciate it.,Delivery,Positive,test
+FB-0232,2026-07-16,The delivery of our replacement parcel was impressive and helpful.,Delivery,Positive,test
+FB-0233,2026-08-17,The time taken to ship my order was ordinary with no strong opinion.,Delivery,Neutral,test
+FB-0234,2026-09-18,The time taken to ship my order was typical and met the basic description.,Delivery,Neutral,test
+FB-0235,2026-01-19,The delivery of our replacement parcel was ordinary with no strong opinion.,Delivery,Neutral,test
+FB-0236,2026-02-20,The delivery of our replacement parcel was typical and met the basic description.,Delivery,Neutral,test
+FB-0237,2026-03-21,The time taken to ship my order was disappointing and needs improvement.,Delivery,Negative,test
+FB-0238,2026-04-22,The time taken to ship my order was poor and I regret the purchase.,Delivery,Negative,test
+FB-0239,2026-05-23,The delivery of our replacement parcel was disappointing and needs improvement.,Delivery,Negative,test
+FB-0240,2026-06-24,The delivery of our replacement parcel was poor and I regret the purchase.,Delivery,Negative,test
